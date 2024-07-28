@@ -29,8 +29,7 @@
     "build-storybook": "storybook build"
   },
   "keywords": [
-    "NIHILncunia",
-    "tool"
+    "NIHILncunia"
   ],
   "author": "nihilncunia7556",
   "license": "MIT",
