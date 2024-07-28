@@ -23,7 +23,7 @@ module.exports = {
       jsx: true,
     },
   },
-  plugins: [ '@typescript-eslint', 'import', 'react', 'react-hooks', 'html', 'storybook', ],
+  plugins: [ '@typescript-eslint', 'import', 'react', 'react-hooks', 'react-refresh', 'html', 'storybook', ],
   rules: {
     // 일반 규칙
     'no-console': 'off',
